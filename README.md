@@ -1,5 +1,5 @@
 ## Hi there 👋
-===DO NOT PANIC===
+==DO NOT PANIC==
 
 <!--
 **Poly-hedron/Poly-hedron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
