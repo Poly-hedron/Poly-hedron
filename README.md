@@ -1,7 +1,7 @@
 
----
-> `                                                                                                                     `
----
+- 👋 Hi, I’m Juraj
+- 🌱 I’m studying mathematics in computer science, and I am currently looking to learn more about artificial intelligence.
+- 🕳️ If you wish to drag me out of my dark hole, feel free to write on my email: jurosusky@gmail.com
 <!--
 **Poly-hedron/Poly-hedron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
